@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.DuokraftAdmin" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/dk_bg</item>
+    </style>
+    <color name="dk_bg">#040C12</color>
+    <color name="dk_blue">#00A8FF</color>
+</resources>

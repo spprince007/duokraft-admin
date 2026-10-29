@@ -1,0 +1,7 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Simplified Duokraft "S" mark -->
+    <path android:fillColor="#00A8FF"
+        android:pathData="M64,30 L48,30 C42,30 38,34 38,40 L38,46 C38,50 40,53 44,55 L60,63 C62,64 62,67 60,68 L44,78 L60,78 C66,78 70,74 70,68 L70,62 C70,58 68,55 64,53 L48,45 C46,44 46,41 48,40 Z" />
+</vector>
